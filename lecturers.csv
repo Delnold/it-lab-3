@@ -1,0 +1,11 @@
+LecturerName,CanTeachSubjects,CanConduct
+Lecturer_1,Subject_2,"Lecture,Practical"
+Lecturer_2,"Subject_1,Subject_6,Subject_2","Lecture,Practical"
+Lecturer_3,"Subject_2,Subject_5,Subject_3","Lecture,Practical"
+Lecturer_4,"Subject_4,Subject_6","Lecture,Practical"
+Lecturer_5,"Subject_2,Subject_1,Subject_5","Lecture,Practical"
+Lecturer_6,"Subject_5,Subject_1","Lecture,Practical"
+Lecturer_7,"Subject_3,Subject_4","Lecture,Practical"
+Lecturer_8,Subject_5,"Lecture,Practical"
+Lecturer_9,Subject_3,"Lecture,Practical"
+Lecturer_10,"Subject_3,Subject_6","Lecture,Practical"
